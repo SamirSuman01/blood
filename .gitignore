@@ -84,3 +84,8 @@ flutter/ephemeral/
 coverage/
 lib/generated_plugin_registrant.dart
 pubspec.lock
+
+node_modules/
+.env
+dist/
+.DS_Store

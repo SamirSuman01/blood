@@ -1,0 +1,81 @@
+MIT License
+
+Copyright (c) 2024 Blood Bridge Toolkit Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+ADDITIONAL HEALTH & MEDICAL DISCLAIMER
+================================================================================
+
+CRITICAL NOTICE: This software is designed for informational and coordination
+purposes ONLY. It is NOT:
+- A medical device
+- A medical service
+- A substitute for professional medical advice, diagnosis, or treatment
+- An emergency response system
+- A verified or regulated healthcare service
+
+NO LIABILITY FOR MEDICAL OUTCOMES:
+The authors, contributors, and maintainers of this software shall NOT be held
+liable for any medical outcomes, data inaccuracies, service failures, injuries,
+deaths, or any damages (direct, indirect, incidental, special, consequential,
+or punitive) arising from the use or misuse of this software.
+
+DEPLOYER/USER RESPONSIBILITY:
+Any individual, organization, or entity that deploys, hosts, or uses this
+software assumes FULL and SOLE responsibility for:
+- Compliance with all applicable laws, regulations, and medical licensing
+  requirements in their jurisdiction
+- Verification of all data accuracy and reliability
+- User safety and data privacy
+- Obtaining necessary licenses, permits, and insurance
+- Providing proper disclaimers and terms of service to end users
+- All medical, legal, and financial liabilities
+
+EMERGENCY DISCLAIMER:
+This software is NOT an emergency service. In case of medical emergency,
+users must contact their local emergency services (e.g., 108 in India,
+911 in USA, 999 in UK, etc.).
+
+VERIFICATION REQUIRED:
+All information provided by this software must be independently verified
+by users before taking any action. The software does not guarantee accuracy,
+availability, or reliability of any information.
+
+DATA SOURCES:
+Any data displayed by this software is sourced from third parties. The
+software creators do not verify, endorse, or guarantee the accuracy of
+third-party data.
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE AND AGREE:
+- You have read and understood this disclaimer
+- You use this software at your own risk
+- You will not hold the creators liable for any outcomes
+- You will comply with all applicable laws in your jurisdiction
+- You will provide appropriate disclaimers to end users if you deploy this
+
+INDEMNIFICATION:
+You agree to indemnify, defend, and hold harmless the authors, contributors,
+and maintainers from any claims, damages, losses, liabilities, and expenses
+(including legal fees) arising from your use or deployment of this software.
+
+================================================================================
+
+If you do not agree to these terms, DO NOT use this software.
